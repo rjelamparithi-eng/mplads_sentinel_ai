@@ -1,0 +1,7 @@
+Project ID,Project Name,District,Project Type,Sanctioned Amount,Expenditure,Sanction Date,Expected Completion Date,Actual Completion Date,Progress,Latitude,Longitude,Status,Supporting Document
+ERD-ROAD-020,Valid Bituminous Road Project,ERODE,road,2500000,2400000,01-04-2023,15-10-2023,10-10-2023,100,11.275,77.583,completed,cert_020.pdf
+CBE-WATER-021,RO Plant with Missing Coords,coimbatore,drinking water,"₹15,00,000","14,50,000",2023-05-10,2023-11-10,,80,,,"in progress",order_021.pdf
+ERD-ROAD-001,Duplicate Project ID Test,Erode,Road,2000000,1900000,2023-02-01,2023-08-01,2023-07-28,100,11.275,77.583,Completed,doc_001.pdf
+CHN-SOLAR-022,Invalid Progress Percentage,Chennai,Solar Lighting,1000000,950000,2023-03-01,2023-09-01,,130,13.082,80.27,In Progress,
+ERD-COMM-023,Negative Amount Test,Erode,Community Hall,-500000,400000,2023-01-15,2023-07-15,,50,11.44,77.68,In Progress,
+CHN-ROAD-024,High Expenditure Over Budget,Chennai,Road,3000000,4200000,2023-02-10,2023-10-10,,85,13.04,80.23,In Progress,stage_024.pdf

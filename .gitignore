@@ -1,0 +1,45 @@
+# Python
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+backend/.env.local
+frontend/.env.local
+
+# Node
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Database & Local Backups
+*.db
+*.sqlite
+*.sqlite3
+backups/
+backup_before_repair/

@@ -1,0 +1,6 @@
+project_id,project_name,district,project_type,sanctioned_amount,expenditure,sanction_date,expected_completion_date,actual_completion_date,progress_percent,latitude,longitude,status,supporting_document
+ERD-ROAD-010,Construction of Rural Road at Perundurai East,Erode,Road,2200000,2150000,2023-01-10,2023-07-10,2023-07-05,100.0,11.2750,77.5833,Completed,ERD_ROAD_010_bill.pdf
+CBE-WATER-005,Installation of RO Drinking Water Tank at Annur,Coimbatore,Drinking Water,1500000,1480000,2023-03-15,2023-09-15,2023-09-10,100.0,11.2333,77.1333,Completed,CBE_WATER_005_report.pdf
+CHN-SOLAR-002,High-Mast Solar Light Installation in Adyar Park,Chennai,Solar Lighting,1100000,1080000,2023-02-01,2023-06-01,2023-05-28,100.0,13.0064,80.2575,Completed,CHN_SOLAR_002_cert.pdf
+ERD-COMM-004,Community Hall Upgradation at Bhavani West,Erode,Community Hall,3000000,2950000,2023-04-01,2023-11-01,2023-10-28,100.0,11.4485,77.6826,Completed,ERD_COMM_004_doc.pdf
+CBE-ROAD-008,Asphalt Road Renewal near Mettupalayam Highway,Coimbatore,Road,4500000,4420000,2023-05-15,2023-12-15,2023-12-10,100.0,11.3000,76.9500,Completed,CBE_ROAD_008_audit.pdf
